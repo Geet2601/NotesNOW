@@ -2,6 +2,9 @@
 
 NotesNOW is a mobile application built with React Native and Firebase, designed to help users manage their notes efficiently.
 
+![WhatsApp Image 2023-12-12 at 12 08 28_57c924fb](https://github.com/Geet2601/NotesNOW/assets/138841476/4801845c-d23f-43f4-bcda-ed2b03fbc9b2)
+![WhatsApp Image 2023-12-12 at 12 08 29_d245d184](https://github.com/Geet2601/NotesNOW/assets/138841476/c02845da-8bbe-4797-9d77-b99004361a41)
+
 ## Features
 
 - Create, update, read and delete notes.
