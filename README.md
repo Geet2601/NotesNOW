@@ -16,7 +16,7 @@ NotesNOW is a mobile application built with React Native and Firebase, designed 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/NotesNOW.git
+git clone https://github.com/Geet2601/NotesNOW.git
 cd NotesNOW
 npm install
 ```
@@ -49,7 +49,7 @@ The app provides a simple interface for managing notes:
 
 - Add a Note: Click on the add button to create a new note.
 - Update a Note: Tap on an existing note to edit its contents.
-- Delete a Note: Swipe left or right on a note to delete it.
+- Delete a Note: Click on the delete button when you select the note you want to delete. 
 
 
 ## Contributing
